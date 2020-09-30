@@ -1,2 +1,1 @@
-<center> # FaceBook-AR-Hackathon </center>
-<center> # Exploring-Space </center>
+# FaceBook-AR-Hackathon-Exploring-Space
